@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Wp Direction service</string>
+    <string name="title_activity_maps" translatable="false">Wp Direction service</string>
+    <string-array name="addressname">
+        <item>Nairobi</item>
+        <item>Nyeri</item>
+        <item>29 BucksinDR</item>
+        <item>247 JERUSALEM Rd</item>
+        <item>206 TITUS LN</item>
+        <item>408 ARMSTRONG</item>
+    </string-array>
+</resources>
